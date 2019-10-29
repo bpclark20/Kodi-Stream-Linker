@@ -1,0 +1,22 @@
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.exe.config
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.exe
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.pdb
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.xml
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.vbprojAssemblyReference.cache
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi_Stream_Linker.frmStreamLinker.resources
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi_Stream_Linker.Resources.resources
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.vbproj.GenerateResource.cache
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.exe
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.xml
+C:\Users\brian\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.pdb
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.exe.config
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.exe
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.pdb
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\bin\Debug\Kodi Stream Linker.xml
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.vbprojAssemblyReference.cache
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi_Stream_Linker.frmStreamLinker.resources
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi_Stream_Linker.Resources.resources
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.vbproj.GenerateResource.cache
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.exe
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.xml
+D:\Google Drive\Coding\Kodi Stream Linker\Kodi Stream Linker\obj\Debug\Kodi Stream Linker.pdb
