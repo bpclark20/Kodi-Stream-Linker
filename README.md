@@ -1,4 +1,4 @@
-# Kodi-Stream-Linker
+# Kodi Stream Linker
 A Windows .NET tool to create Kodi compatible stream link files to internet audio/video sources. 
 
 How to Use:
